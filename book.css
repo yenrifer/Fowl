@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+     color: chocolate;
+    background-color: darkgrey;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+}
+section{
+    height: 100vh;
+    width: 100vw;
+}
+p{
+padding: 20px;
+color: chocolate;
+}
+ footer{
+padding: 10px;
+text-align: center;
+background-color: darkgrey;
+color: chocolate;
+}
+div {
+    text-align: center;
+}
+.prev, .next{padding: 15px;
+    margin-left: 50px;
+border: 2px solid chocolate;
+}
+.anchor{
+    margin-top: 100px;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: chocolate;
+    color: white;
+}
+.nav, .article{ 
+    float: left;
+}
+.nav{width: 20%;
+     margin-bottom: 20px;}
+.article{width: 80%;
+margin-bottom: 50px;}
